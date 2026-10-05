@@ -1,4 +1,5 @@
-# SmartShelf Vision: Retail Shelf Inventory and Out of Stock Alert System
+
+# Project: MIDTERM – AI Agent Blueprint SmartShelf Vision: Retail Shelf Inventory and Out of Stock Alert System
 
 **Team Members:** Yilin Leng, Lufei Yu
 
